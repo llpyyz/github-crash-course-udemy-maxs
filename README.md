@@ -1,4 +1,3 @@
 # Important Instructions
-Follow along with the Udemy Github Actions Course (Max Schwarzmuller)
 
-A demo repo for practicing Git and Github
+This is a demo repository for practicing Git & GitHub.
